@@ -4,7 +4,6 @@ author: her h. robert
 date: 2023-07-22 01:56:00 +0600
 categories: [Mango,Fruits]
 tags: [agriculture,food production,farmer] #TAG names should be lowercase
-render_with_liquid: false
 ---
 
 ![A farmer plucking mango](https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/07/21/amrapuli.jpg)
